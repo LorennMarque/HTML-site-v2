@@ -1,0 +1,25 @@
+body {
+  background-color: #EFEAD8;
+}
+
+hr {
+  border-color: gray;
+  border-style: dotted none none none;
+  border-width: 7px;
+  width: 7%;
+}
+
+h1, h2, h3{
+  color: #413F42;
+}
+
+p, li, li, td, label,th {
+  color: #5F7161;
+}
+
+input, textarea {
+  border-radius: 10%;
+  border-style: hidden;
+  outline: none;
+  box-shadow: none;
+}
